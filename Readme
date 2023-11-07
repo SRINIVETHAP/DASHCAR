@@ -1,0 +1,31 @@
+Overview
+This project is a basic car game built using HTML, CSS, and JavaScript. Players control a car to avoid obstacles and score points. The car moves left and right to dodge incoming obstacles.
+Features
+A car that can be controlled by the player to move left and right.
+Randomly generated obstacles that the player needs to avoid.
+A scoring system to keep track of the player.
+Game over screen and the option to restart the game.
+Prerequisites
+A code editor (e.g., Visual Studio Code).
+A modern web browser (e.g., Chrome, Firefox).
+Basic understanding of HTML, CSS, and JavaScript.
+Getting Started
+Clone or download this repository to our local machine.
+Open the project folder our code edit
+or .
+Structure
+index.html: The main HTML file that displays the game.
+style.css: The CSS file  styling the game.
+script.js: The JavaScript file  game logic.
+Instructions
+Open index.htmlin your web browser to play the game.
+Use the left and right arrow keys to control the car.
+Dodge the obstacles to score points.
+When the game is over, we can restart by refreshing the page
+Customization
+we can customize the game by modifying the HTML, CSS, and JavaScript code. Here are some ideas for customization:
+
+Change the car image and obstacles appearance.
+Adjust the game difficulty by altering the speed and frequency of obstacles.
+Add sound effects or background music.
+Implement a high score system.
